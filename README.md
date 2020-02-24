@@ -1,11 +1,11 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU2_01MHRL.  Curso: 2019/20 
 
-Proyecto: PRUEBA 3434343434
+Proyecto: 
 
-Descripción: ninguna
+Descripción: 
 
 Logotipo: 
 
