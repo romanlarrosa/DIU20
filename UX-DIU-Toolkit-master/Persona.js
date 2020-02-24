@@ -70,7 +70,7 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Guillermo Nieto",
-				Photo: "woman.png",
+				Photo: "guillermo.jpg",
 				Quote: "Tranquilo y hogareño",
 				Age: 17,
 				Occupation: "Buscando un empleo",
