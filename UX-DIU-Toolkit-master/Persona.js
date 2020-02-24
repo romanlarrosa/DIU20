@@ -69,36 +69,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Guillermo Nieto",
 				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
+				Quote: "Tranquilo y hogareño",
 				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Occupation: "Buscando un empleo",
+				Family: "Su padre y su madre, viven en su ciudad natal.",
+				Location: "Ahora mismo en Granada, pero quiere independizarse e irse a vivir a Madrid.",
+				Character: "Tímido, pero le encanta pasar tiempo con sus amigos más cercanos.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Conseguir independizarse y comenzar una vida por su cuenta", "Encontrar un piso con compañeros afines", "Conseguir el trabajo de sus sueños"],
+				Frustrations: ["No ser suficientemente bueno en las entrevistas de trabajo", "No conseguir conectar con sus futuros compañeros de piso", "Quedarse sin dinero antes de encontrar un trabajo"],
+				Bio: "Guillermo ha estudiado en granada la carrera de Telecomunicaciones, y ha finalizado tambien un máster. Tras trabajar un par de años como becario en algunas empresas de su ciudad, se dispone a buscar un empleo en el que pueda desarrollarse más personalmente. Siempre ha vivido con sus padres por lo que no ha tenido que convivir mucho tiempo con otra gente, y además es muy tímido y le encanta que su casa sea su remanso de paz y concentración. Guillermo necesita mucha confianza para poder desarrollar una relación con alguien, y le encantaría que sus compaleros de piso se convirtiesen tambien en sus amigos. Necesita un piso económico, por el momento, ya que hasta que encuentre un empleo, deberá subsistir con el dinero que ha ahorrado trabajando como becario. Guillermo necesita encontrar el piso lo antes posibe, ya que quiere empezar a buscar su futuro empleo cuanto antes.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "Mobile", Value: 2 },
+					{ Name: "RRSS", Value: 2 },
+					{ Name: "Software", Value: 4 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "A Guillermo no le gusta pasar demasiadas horas al ordenador, y mucho menos al mobil, que usa solo para lo necesario, pero está dispuesto a lo que sea para conseguir sus metas" ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
+					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
+					{ Name: "Online & Social Media", Value: 1 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
 				]
 			}
 		];
