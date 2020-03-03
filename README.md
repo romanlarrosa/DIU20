@@ -40,6 +40,7 @@ Los servicios que hemos encontrado contra los que competir son:
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![](img/Plantilla_Ashley.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
