@@ -72,7 +72,7 @@ angular.module("angular", [])
 				Name: "Guillermo Nieto",
 				Photo: "guillermo.jpg",
 				Quote: "Tranquilo y hogareño",
-				Age: 17,
+				Age: 27,
 				Occupation: "Buscando un empleo",
 				Family: "Su padre y su madre, viven en su ciudad natal.",
 				Location: "Ahora mismo en Granada, pero quiere independizarse e irse a vivir a Madrid.",
@@ -89,11 +89,11 @@ angular.module("angular", [])
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Mobile", Value: 2 },
-					{ Name: "RRSS", Value: 2 },
+					{ Name: "RRSS", Value: 1 },
 					{ Name: "Software", Value: 4 }
 					
 				], 
-                Contextos:   "A Guillermo no le gusta pasar demasiadas horas al ordenador, y mucho menos al mobil, que usa solo para lo necesario, pero está dispuesto a lo que sea para conseguir sus metas" ,
+                Contextos:   "A Guillermo no le gusta pasar demasiadas horas innecesarias al ordenador, y mucho menos al móvil, que usa solo para lo necesario, pero está dispuesto a lo que sea para conseguir sus metas" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
 					{ Name: "Online & Social Media", Value: 1 },

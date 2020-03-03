@@ -31,6 +31,10 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Los servicios que hemos encontrado contra los que competir son:
+  - HABITOOM: Es una web. Aunque su funcionamiento parece simple, a la hora de buscar anuncios se convierte en una tarea muy compleja. Necesita ubicaciones muy concretas por lo que dificulta la busqueda. Comunidad sin apenas feedback.
+  - STUKERS: También es una web. En el anuncio tienes la posibilidad de ver a los compañeros que ya estan conviviendo. SU mayor desventaja son las escasas opciones de filtrado en la búsqueda. Es tan básico que no a todos los usuarios sirve.
+  - BADI: Es tanto una web como una app. La hemos encontrado la más completa, por su sistema de filtrado, su comunidad, las opcioens de perfil, y lo sencillo que a priori parece su uso. Es por ello que vamos a escogerla para hacerle el Usability Review, ya que nos parece la competencia más alta contra la que competimos.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
