@@ -40,7 +40,7 @@ Los servicios que hemos encontrado contra los que competir son:
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-![](img/Plantilla_Ashley.png)]
+![](img/Plantilla_Ashley.png)
 ![](img/Plantilla_Guillermo.png)
 Hemos elegido a estas personas porque ambos reunen características básicas de los usuarios frecuentes en estos servicios pero, a su vez, presentan necesidades muy dispares y concretas como la nacionalidad o la dificultad de encontrar un compañero afin para ellos. Tienen habilidades de usuario diferentes por lo que nos permite abordar el estudio de la usabilidad desde puntos de vista muy distintos.
 
