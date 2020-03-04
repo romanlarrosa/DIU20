@@ -30,55 +30,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Juan Lopez",
-                Photo: "man.png",
+				Name: "Ashley Miles",
+                Photo: "ashley.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                goal1: "quiere encontrar un piso para entrar a vivir durante su estancia de Erasmus en España",
+                touch1: "ordenador",
+                feel1: "3",
+                con1: "no sabe por dónde empezar a buscar ",
+                ima1: "cartoon-why.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "ordenador",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Busca y descarga la aplicación Badi",
+                touch2: "movil(Badi)",
+                feel2: "4",
+                con2: "hay muchas opciones y Ashley debe pararse a pensar en qué busca concretamente en una habitación",
+                ima2: "cartoon-thinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                goal3: "Selecciona un piso muy acogedor en el centro. Con un buen precio y con muchas comodidades",
+                touch3: "móvil (Badi)",
+                feel3: "5",
+                con3: "Debe asegurarse de que el anuncio es fiable. Para ello, selecciona la opción enviar consulta al anunciante.",
+                ima3: "cartoon-phoning.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                goal4: "Decide buscar otros pisos de características similares",
+                touch4: "móvil (Badi)",
+                feel4: "1",
+                con4: "Se percata de que la habitación está duplicada en la aplicación. Además, nadie responde cuando Ashley envía una consulta al anunciante.",
+                ima4: "cartoon-crying.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
+                goal5: "Encuentra fácilmente la opción para denunciar una habitación por estafa o duplicación.",
+                touch5: "móvil (Badi)",
                 feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                con5: "Ha perdido un poco la confianza en la comunidad de usuarios de Badi",
+                ima5: "cartoon-phoneAssistan.jpg",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                goal6: "Encuentra otra habitación rápidamente, donde el propietario es muy amable y responde al momento",
+                touch6: "móvil(Badi)",
+                feel6: "4",
+                con6: "Debe esperar 72h hasta que se confirma su reserva. El pago, junto con la fianza, estará retenido durante ese tiempo.",
+                ima6: "cartoon-shaking.png",
                 
 			},
 			{	
