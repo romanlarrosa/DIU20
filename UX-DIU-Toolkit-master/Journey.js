@@ -88,7 +88,7 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Guille. Nieto",
                 Photo: "woman.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
