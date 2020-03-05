@@ -89,54 +89,54 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Guille. Nieto",
-                Photo: "woman.png",
+                Photo: "guillermo.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
+                goal1: "Guillermo ha encontrado un piso perfecto con una agencia",
+                touch1: "agencia alquileres",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                con1: "No puede permitirse pagarlo el solo, necesita compañeros de piso",
+                ima1: "cartoon-happy.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Guillermo busca en distintos portales web alguno para encontrar compañerps",
+                touch2: "ordenador",
+                feel2: "3",
+                con2: "Hay bastantes portales para encontrar piso pero Guillermo quiere uno en el que controlar quienes seran sus compañeros",
+                ima2: "cartoon-PChard.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
+                goal3: "Decide publicar su habitacion en badi ya que es el servicio que encuentra mas completo",
+                touch3: "ordenador (badi)",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                con3: "Tiene que rellenar demasidos datos y en ningun lugar pone para que se van a usar",
+                ima3: "cartoon-PCangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "Empiezan a llegarle bastantes solicitudes para ser compañeros de piso",
+                touch4: "ordenador (badi)",
+                feel4: "4",
+                con4: "No todo el mundo tiene una foto clara o ha rellenado su informacion completamente para que GUillermo conozca su personalidad",
+                ima4: "cartoon-looking.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                goal5: "Acepta a dos compañeros cuyos perfiles estaban completos y cree que pueden ser compatibles para convivir",
+                touch5: "ordenador (badi)",
+                feel5: "5",
+                con5: "No se fia mucho de los usuarios pero el servicio le ofrece algunas garantias",
+                ima5: "cartoon-PChappy.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
+                goal6: "Guillermo por fin conoce a sus compañeros",
+                touch6: "Vivienda",
                 feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                con6: "Uno de ellos no es como el se habia descrito en la web pero el contrato ya está hecho",
+                ima6: "cartoon-deciding2.png",
                 
                 
                 
