@@ -38,9 +38,8 @@ Mas info sobre la decision [aqui](https://github.com/romanlarrosa/DIU20/tree/mas
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-![](img/Plantilla_Ashley.png)
-![](img/Plantilla_Guillermo.png)
-Hemos elegido a estas personas porque ambos reunen características básicas de los usuarios frecuentes en estos servicios pero, a su vez, presentan necesidades muy dispares y concretas como la nacionalidad o la dificultad de encontrar un compañero afin para ellos. Tienen habilidades de usuario diferentes por lo que nos permite abordar el estudio de la usabilidad desde puntos de vista muy distintos.
+
+Hemos elegido a Ashley y a Guillermo como personas que van a usar el servicio. Mas info [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
