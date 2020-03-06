@@ -31,6 +31,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
 Los servicios que hemos encontrado contra los que competir son habitoom, stuckers y badi. Hemos elegido badi porque nos parece el mas completo contra el que competir.
 Mas info sobre la decision [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1)
 
@@ -46,6 +47,8 @@ Hemos elegido a Ashley y a Guillermo como personas que van a usar el servicio. M
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+Las dos experiencias rigen el funcionamiento básico de la aplicacion. Más info [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
