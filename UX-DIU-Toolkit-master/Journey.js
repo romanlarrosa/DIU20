@@ -41,7 +41,7 @@ angular.module("angular", [])
                 ima1: "cartoon-why.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca y descarga la aplicación Badi",
+                goal2: "Una vez descargada la aplicación Badi, Ashley se dispone a encontrar una habitación.",
                 touch2: "movil(Badi)",
                 feel2: "4",
                 con2: "hay muchas opciones y Ashley debe pararse a pensar en qué busca concretamente en una habitación",
@@ -49,35 +49,35 @@ angular.module("angular", [])
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Selecciona un piso muy acogedor en el centro. Con un buen precio y con muchas comodidades",
+                goal3: "Selecciona un piso muy acogedor en el centro. Con un buen precio y con muchas comodidades. Ashley necesita confiar en el anunciante.",
                 touch3: "móvil (Badi)",
-                feel3: "5",
+                feel3: "4",
                 con3: "Debe asegurarse de que el anuncio es fiable. Para ello, selecciona la opción enviar consulta al anunciante.",
                 ima3: "cartoon-phoning.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Decide buscar otros pisos de características similares",
+                goal4: "Encontrar otros pisos de características similares mientras espera la respuesta del anunciante anterior",
                 touch4: "móvil (Badi)",
-                feel4: "1",
-                con4: "Se percata de que la habitación está duplicada en la aplicación. Además, nadie responde cuando Ashley envía una consulta al anunciante.",
+                feel4: "2",
+                con4: "Se percata de que la habitación está duplicada en la aplicación. Además, nadie responde a su anterior consulta.",
                 ima4: "cartoon-crying.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Encuentra fácilmente la opción para denunciar una habitación por estafa o duplicación.",
+                goal5: "Reportar las habitaciones duplicadas.",
                 touch5: "móvil (Badi)",
                 feel5: "2",
-                con5: "Ha perdido un poco la confianza en la comunidad de usuarios de Badi",
+                con5: "Encuentra facilmente la opción de reportar, pero Ashley ha perdido un poco la confianza en la comunidad de usuarios de Badi",
                 ima5: "cartoon-phoneAssistan.jpg",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Encuentra otra habitación rápidamente, donde el propietario es muy amable y responde al momento",
+                goal6: "Hacer la reserva de una habitación",
                 touch6: "móvil(Badi)",
                 feel6: "4",
-                con6: "Debe esperar 72h hasta que se confirma su reserva. El pago, junto con la fianza, estará retenido durante ese tiempo.",
+                con6: "Encuentra otra habitación rápidamente, donde el propietario es muy amable y responde al momento. Una vez realizada la reserva debe esperar 72h hasta que se confirma su reserva. El pago, junto con la fianza, estará retenido durante ese tiempo.",
                 ima6: "cartoon-shaking.png",
                 
 			},
@@ -92,17 +92,17 @@ angular.module("angular", [])
                 Photo: "guillermo.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Guillermo ha encontrado un piso perfecto con una agencia",
-                touch1: "agencia alquileres",
-                feel1: "5",
-                con1: "No puede permitirse pagarlo el solo, necesita compañeros de piso",
+                goal1: "Guillermo quiere ganar un dinero extra poniendo en alquiler una habitación de su casa para poder pagar la residencia de sus padres",
+                touch1: "ordenador",
+                feel1: "3",
+                con1: "No puede permitirse pagar la cuota el solo, por lo que busca compañeros de piso",
                 ima1: "cartoon-happy.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Guillermo busca en distintos portales web alguno para encontrar compañerps",
+                goal2: "Publicar la habitación en badi, ya que ha usado el servicio con anterioridad",
                 touch2: "ordenador",
                 feel2: "3",
-                con2: "Hay bastantes portales para encontrar piso pero Guillermo quiere uno en el que controlar quienes seran sus compañeros",
+                con2: "",
                 ima2: "cartoon-PChard.png",
                 
                 /*** PASO #3: ACTUA ***/ 
