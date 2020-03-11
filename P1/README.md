@@ -19,9 +19,12 @@ Hemos elegido a estas personas porque ambos reunen características básicas de 
 
 >>> *2 User Journey Map*  ( 1 por persona)
 
+![](../img/Map_Ashley.png)
+![](../img/Map_Guillermo.png)
+
 Ashley: Ella necesita una habitación en la que vivir durante su estancia en granada. Durante la búsqueda en el serviico, se encuentra con un problema y se ve obligada a reportar una habitación.
 
-Guillermo: Quiere publicar un anuncio de habitación para buscar compañeros con los que compartir los gastos. Necesita que tengan unas personalidades afines a la suya.
+Guillermo: Quiere publicar un anuncio de habitación para buscar compañeros para sacar un dinero extra. Necesita que tengan unas personalidades afines a la suya.
 
 
 Se trata de las dos funcionalidades principales que ofrece el servicio, por lo que todos los usuarios de badi las van a usar. Además por las caracteristicas de las personas, vamos a testar otras funionalidades del servicio como el soporte tecnico o la utilidad de los perfiles.
