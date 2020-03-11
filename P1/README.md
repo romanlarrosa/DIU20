@@ -30,4 +30,5 @@ Guillermo: Quiere publicar un anuncio de habitación para buscar compañeros par
 Se trata de las dos funcionalidades principales que ofrece el servicio, por lo que todos los usuarios de badi las van a usar. Además por las caracteristicas de las personas, vamos a testar otras funionalidades del servicio como el soporte tecnico o la utilidad de los perfiles.
 
  **Revisión de Usabilidad**
- Aunque la nota es muy elevada, pensamos que no se ajusta a la realidad porque no penaliza con un peso tan decisivo errores en las funcionalidades, si no que basa casi toda la puntuación en las decisiones de diseño de la interfaz. 
+ 
+  Aunque la nota es muy elevada, pensamos que no se ajusta a la realidad porque no penaliza con un peso tan decisivo errores en las funcionalidades, si no que basa casi toda la puntuación en las decisiones de diseño de la interfaz. 
