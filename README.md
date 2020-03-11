@@ -54,7 +54,7 @@ Las dos experiencias rigen el funcionamiento básico de la aplicacion. Más info
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Enlace al documento:  (https://github.com/romanlarrosa/DIU20/tree/master/P1/Usability-review-template.xlsx)
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
