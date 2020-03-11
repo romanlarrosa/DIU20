@@ -96,18 +96,18 @@ angular.module("angular", [])
                 touch1: "ordenador",
                 feel1: "3",
                 con1: "No puede permitirse pagar la cuota el solo, por lo que busca compañeros de piso",
-                ima1: "cartoon-happy.png",
+                ima1: "cartoon-reading.png",
                 
                 /*** PASO #2: DECICION ***/ 
                 goal2: "Publicar la habitación en badi, ya que ha usado el servicio con anterioridad",
                 touch2: "ordenador",
                 feel2: "3",
-                con2: "",
+                con2: "Es la primera vez que va a publicar una habitacion, siempre ha usado badi para buscarlas",
                 ima2: "cartoon-PChard.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide publicar su habitacion en badi ya que es el servicio que encuentra mas completo",
+                goal3: "Rellenar el formulario para publicar la habitación",
                 touch3: "ordenador (badi)",
                 feel3: "2",
                 con3: "Tiene que rellenar demasidos datos y en ningun lugar pone para que se van a usar",
@@ -115,24 +115,24 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Empiezan a llegarle bastantes solicitudes para ser compañeros de piso",
+                goal4: "Gestionar las solicitudes de compañeros de piso que le estan llegando",
                 touch4: "ordenador (badi)",
-                feel4: "4",
-                con4: "No todo el mundo tiene una foto clara o ha rellenado su informacion completamente para que GUillermo conozca su personalidad",
+                feel4: "2",
+                con4: "No todo el mundo tiene una foto clara o ha rellenado su informacion completamente para que Guillermo conozca su personalidad",
                 ima4: "cartoon-looking.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Acepta a dos compañeros cuyos perfiles estaban completos y cree que pueden ser compatibles para convivir",
+                goal5: "Aceptar a dos compañeros cuyos perfiles esten completos y puedan ser compatibles con el.",
                 touch5: "ordenador (badi)",
-                feel5: "5",
+                feel5: "4",
                 con5: "No se fia mucho de los usuarios pero el servicio le ofrece algunas garantias",
                 ima5: "cartoon-PChappy.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Guillermo por fin conoce a sus compañeros",
+                goal6: "Conocer a sus compañeros",
                 touch6: "Vivienda",
                 feel6: "2",
                 con6: "Uno de ellos no es como el se habia descrito en la web pero el contrato ya está hecho",
