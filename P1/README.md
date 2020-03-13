@@ -31,4 +31,4 @@ Se trata de las dos funcionalidades principales que ofrece el servicio, por lo q
 
 ## **Revisión de Usabilidad**
 
-  Aunque la nota es muy elevada, pensamos que no se ajusta a la realidad porque no penaliza con un peso tan decisivo errores en las funcionalidades, si no que basa casi toda la puntuación en las decisiones de diseño de la interfaz. 
+  Aunque la nota es muy elevada, pensamos que no se ajusta a la realidad porque no penaliza con un peso tan decisivo errores en las funcionalidades, si no que basa casi toda la puntuación en las decisiones de diseño de la interfaz. Si bien la revisión de usabilidad acierta en el aspecto visual en cuanto a lo amigable al usuario y la facilidad de interactuar con el servicio, la correcta tipografía y tamaño de letra, no lo hace así con ciertas funcionalidades que consieramos básicas tales como el guardado de búsquedas y anuncios concretos o la correcta señalización y explicación a la hora de rellenar formularios.
