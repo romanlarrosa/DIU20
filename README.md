@@ -69,9 +69,7 @@ Las dos experiencias rigen el funcionamiento básico de la aplicacion. Más info
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+
   
   
   
