@@ -73,18 +73,17 @@ Las dos experiencias rigen el funcionamiento básico de la aplicacion. Más info
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Puedes ver el sitemap propuesto y el task flow pinchando aqui:
+  - [Sitemap](https://github.com/romanlarrosa/DIU20/tree/master/P2)
+  - [Task Flow](https://github.com/romanlarrosa/DIU20/tree/master/P2)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
+>>>  Puedes encontrar la identificación de los diferentes términos en una plantilla de labelling [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2/doc/labelling.pdf)
+  
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
