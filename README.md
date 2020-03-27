@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2_01MHRL.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Sharee
 
-Descripción: 
+Descripción: Sharee es una aplicación movil desde la cual podrás publicar o buscar piso para compartir. Guarda tus anuncios favoritos y las búsquedas que suelas hacer habitualmente, y mira lo que antiguos compañeros piensan de tu casero o sus inquilinos!
 
 Logotipo: 
 
@@ -66,17 +66,9 @@ Las dos experiencias rigen el funcionamiento básico de la aplicacion. Más info
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
-
+>>> Puedes ver un capture grid agrupando los aspectos mas destacados del servicio analizado [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2)
   
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> Vamos a mejorar la componente social y añadir funcionalidades de guardado de anuncios y búsquedas. Puedes conocer más acerca de esto [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
