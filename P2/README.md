@@ -33,13 +33,13 @@ Puedes ver toda la información acerca del labelling en [este documento pdf](htt
 ## Wireframe & User flow 
 
 Favoritos:
-![](img/WFAñadir_Favoritos.png)
+![](img/WFAnadir_Favoritos.png)
 ![](img/WFVer_favoritos.png)
 
 Búsqueda:
 ![](img/Hacer_busqueda.png)
 
 Reseñas:
-![](img/WFEscribir_reseña.png)
-![](img/WFVer_reseña.png)
+![](img/WFEscribir_resena.png)
+![](img/WFVer_resena.png)
 
