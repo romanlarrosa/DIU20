@@ -8,6 +8,22 @@ Nuestro servicio se llama Sharee y para mejorar el servicio de badi implementar�
     - Marcado de anuncios como favoritos
     - Sistema de valoración y reseña de usuarios
 
-Sitemap & Task flow 
+## Sitemap & Task flow 
+**2.1 Sitemap**
+![](img/Sitemap.png)
+
+**2.2 Task Flow**
+Favoritos:
+![](img/GuardarFavoritos.png)
+![](img/VerFavoritos.png)
+
+Búsqueda:
+![](img/GuardarBusqueda.png)
+
+Reseñas:
+![](img/DejarReseña.png)
+![](img/VerReseña.png)
+
+
 Labelling 
 Wireframe & User flow 
