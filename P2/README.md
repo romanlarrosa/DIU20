@@ -13,6 +13,7 @@ Nuestro servicio se llama Sharee y para mejorar el servicio de badi implementar√
 ![](img/Sitemap.png)
 
 **2.2 Task Flow**
+
 Favoritos:
 ![](img/GuardarFavoritos.png)
 ![](img/VerFavoritos.png)
