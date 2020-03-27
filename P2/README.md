@@ -23,7 +23,7 @@ Búsqueda:
 
 Reseñas:
 ![](img/DejarResena.png)
-![](img/VerReseña.png)
+![](img/VerResena.png)
 
 
 ## Labelling 

@@ -89,7 +89,7 @@ Las dos experiencias rigen el funcionamiento básico de la aplicacion. Más info
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Puedes ver los bocetos de la aplicacion [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2)
 
 
 ## Paso 3. Make (Prototyping) 
