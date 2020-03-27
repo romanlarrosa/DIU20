@@ -22,7 +22,7 @@ Búsqueda:
 ![](img/GuardarBusqueda.png)
 
 Reseñas:
-![](img/DejarReseña.png)
+![](img/DejarResena.png)
 ![](img/VerReseña.png)
 
 
