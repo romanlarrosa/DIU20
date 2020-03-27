@@ -26,5 +26,20 @@ Reseñas:
 ![](img/VerReseña.png)
 
 
-Labelling 
-Wireframe & User flow 
+## Labelling 
+
+Puedes ver toda la información acerca del labelling en [este documento pdf](https://github.com/romanlarrosa/DIU20/tree/master/P2/doc/labelling.pdf)
+
+## Wireframe & User flow 
+
+Favoritos:
+![](img/WFAñadir_Favoritos.png)
+![](img/WFVer_favoritos.png)
+
+Búsqueda:
+![](img/Hacer_busqueda.png)
+
+Reseñas:
+![](img/WFEscribir_reseña.png)
+![](img/WFVer_reseña.png)
+
