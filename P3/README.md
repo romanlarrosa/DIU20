@@ -85,4 +85,10 @@ Basandonos en las lineas de diseño aportadas por Google, hemos escogido dos col
 - Bone: ![#e5dcc5](https://placehold.it/15/e5dcc5/000000?text=+) `#e5dcc5`
 
 ### Iconografía
-En sus guidelines, Google
+En sus guidelines, Google nos ofrece indicaciones sobre la iconografía y un banco de iconos usado en su sistema. Sin embargo; nosotros vamos a mantener los iconos que aportamos en el [labeling de la P2](https://github.com/romanlarrosa/DIU20/blob/master/P2/doc/labelling.pdf), ya que además de cumplir las guías de diseño, todos mantienen un estilo propio y uniforme.
+
+### Resultado
+Como resultado de todas estas decisiones hemos elaborado un style guide siguiendo el ejemplo de Musemap:
+
+![](/img/DISEÑO.svg)
+![](/img/DISEÑO.png)
