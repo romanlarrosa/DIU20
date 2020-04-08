@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU2_01MHRL.  Curso: 2019/20 
+Grupo: DIU2_OrtegayGasset  Curso: 2019/20 
 
 Proyecto: Sharee
 
@@ -10,78 +10,67 @@ Descripción: Sharee es una aplicación movil desde la cual podrás publicar o b
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:  [Marina H. B](http://github.com/marinahbau/DIU20)    :octocat:     
- * :bust_in_silhouette:  [ Román L. L](http://github.com/romanlarrosa/DIU20)    :octocat:
+ * :woman:  [Marina H. B](http://github.com/marinahbau/DIU20)    :octocat:     
+ * :boy:  [ Román L. L](http://github.com/romanlarrosa/DIU20)    :octocat:
 
 ----- 
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
+En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
 # Proceso de Diseño 
+
+El punto de partida para empezar a diseñar Sharee fue elegir la aplicación que consideraramos más competitiva en el mercado, buscar sus puntos críticos e intentar solucionarlos, y proporcionar un diseño más amigable e intuitivo para marcar una diferencia.
 
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-
-Los servicios que hemos encontrado contra los que competir son habitoom, stuckers y badi. Hemos elegido badi porque nos parece el mas completo contra el que competir.
-Mas info sobre la decision [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1)
+Los servicios que encontramos contra los que Sharee competiría son habitoom, stuckers y Badi. Elegimos Badi porque nos parece el mas completo contra el que competir.
+Mas información sobre la decision [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#desk-research-an%C3%A1lisis-competencia)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
-Hemos elegido a Ashley y a Guillermo como personas que van a usar el servicio. Mas info [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1)
+Para poder identificar posibles problemas de cara a las funcionalidades de Sharee, hicimos uso de dos personas ficticias con necesidades y situaciones diferentes para ver que dificulatades encontraban en Badi que pudiesemos mejorar en Sharee. Elegimos a Ashley y a Guillermo, puedes encontrar más información sobre ellos [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#2-personas)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
-Las dos experiencias rigen el funcionamiento básico de la aplicacion. Más info [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1)
+Escogimos las dos experiencias que rigen las funcionalidades más basicas sobre las que se construye Badi para encontrar puntos críticos muy señalables. Puedes ver los mapas de experiencia [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#2-user-journey-map---1-por-persona)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1/Usability-review-template.xlsx)
->>> - Valoración final: 83/100
->>> - Comentario sobre la valoración: Puedes encontrar información más especifica sobre la valoración [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1)
+Analizamos Badi a fondo para tener claros sus puntos fuertes y saber concretamente cuales son sus puntos a mejorar. Para nuestra sorpresa encontramos diversos puntos débiles que nos ayudarían a mejorar nuestro diseño de una forma muy sencilla.
+
+- Enlace al documento: [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1/Usability-review-template.xlsx)
+- Valoración final: 83/100
+- Comentario sobre la valoración: Aunque es una nota alta, no estamos muy de acuerdo con el método de puntuación. Puedes encontrar nuestra valoración completa [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#revisi%C3%B3n-de-usabilidad)
 
 
 ## Paso 2. UX Design  
 
-
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+Decidimos agrupar las características analizadas en el Usability Review para organizar claramente qué cosas queriamos mantener, cuales mejorar, y cuales añadir. Puedes ver el capture grid de estos aspectos [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2#malla-receptora-de-informaci%C3%B3n).
 
->>> Puedes ver un capture grid agrupando los aspectos mas destacados del servicio analizado [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2)
-  
->>> Vamos a mejorar la componente social y añadir funcionalidades de guardado de anuncios y búsquedas. Puedes conocer más acerca de esto [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2)
+Basándonos en el capture grid, encontramos 3 funcionalidades clave en las que centrarnos. Puedes conocer más acerca de esto [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2#malla-receptora-de-informaci%C3%B3n).
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Puedes ver el sitemap propuesto y el task flow pinchando aqui:
-  - [Sitemap](https://github.com/romanlarrosa/DIU20/tree/master/P2)
-  - [Task Flow](https://github.com/romanlarrosa/DIU20/tree/master/P2)
+Desarrollamos el mapa de nuestra aplicación para tener claro dónde situar cada característica antes de comenzar con los primeros bocetos. De esta manera, realizar los bocetos es mucho más sencillo porque tenemos un mapa desde el que guiarnos:
+- [Sitemap](https://github.com/romanlarrosa/DIU20/blob/master/P2/img/Sitemap.png)
+Diseñamos también los pasos a seguir para las nuevas funcionalidades que añadiremos a nuestro proyecto. Las hemos agrupado en 5 Task Flows:
+- [Task Flows](https://github.com/romanlarrosa/DIU20/tree/master/P2#sitemap--task-flow)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
->>>  Puedes encontrar la identificación de los diferentes términos en una plantilla de labelling [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2/doc/labelling.pdf)
+Entonces realizamos el labelling de nuestro servicio para tener claro desde el principio a qué nos referíamos con cada término y cómo iba a ser su representación iconográfica en la aplicación. Estos iconos no tienen por qué coincidir con los de la versión final del servicio, sino servir de guía para su representación. Puedes encontrar el documento [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2/doc/labelling.pdf)
   
 
 
@@ -89,76 +78,58 @@ Las dos experiencias rigen el funcionamiento básico de la aplicacion. Más info
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Puedes ver los bocetos de la aplicacion [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2)
+Entonces realizamos los primeros bocetos de la aplicación, siguiendo el labelling y los taskflow realizados anteriormente, respetando el mapa del sitio. Obtenemos un diseño con detalle medio de las nuevas funcioanlidades. Puedes ver los bocetos [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2#wireframe--user-flow)
 
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. Mi equipo UX-Case Study 
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+Analizamos una experiencia de UX-Case Study de un proyecto ya finalizado. De ella extraemos nuevos métodos que podríamos haber puesto en prática y una forma de organizar nuestro repositorio que resulte más atractiva y explicativa sobre nuestro proyecto. Puedes encontrar nuestro análisis completo [aquí](https://github.com/romanlarrosa/DIU20/tree/master/P3#1-an%C3%A1lisis-de-musemap).
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
-
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-
->>> Plantear Landing Page 
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consideramos que reutilizar las buenas prácticas de diseñadores ayudará a que nuestro servicio se vea actualizado y acorde a las tendencias actuales, además de ahorrarnos tiempo en las decisiones de diseño que ya han sido resueltas por otros diseñadores. Puedes acceder a nuestra propuesta de diseño del proyecto [aquí](https://github.com/romanlarrosa/DIU20/tree/master/P3#2-patrones-de-dise%C3%B1o-y-guidelines). Un resumen de nuestras decisiones puede concretarse en el siguiente styleguide:
+![]((P3/img/DISENO.svg))
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
-## Paso 4. UX Check (Usability Testing) 
+## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+>>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
->>>> Práctica A: 
+>>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas 
+>>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Concluya con un ranking de los casos evaluados 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
-
+>>> Valoración personal 
 
 
 ## Paso 5. Evaluación de Accesibilidad  
@@ -173,14 +144,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-## Conclusión / Valoración de las prácticas
+## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
