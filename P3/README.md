@@ -69,17 +69,20 @@ Los diseñadores han creado unos mockups muy detallados de cual será el aspecto
 
 
 ## 2. Patrones de diseño y guidelines
-Nos hemos basado en las lineas de diseño de google para aplicaciones móviles. Google ofrece una guía de diseño muy detallada y justificada que podemos consultar [aqui](https://material.io/design)
+Nos hemos basado en las lineas de diseño de Google para aplicaciones móviles. Google ofrece una guía de diseño muy detallada y justificada que podemos consultar [aqui](https://material.io/design)
 
 ### Tipografia:
-Hemos decidido escoger dos fuentes principales para nuestra aplicación. Según las guías de google, elemenos tales como "Headlines", subtitulos y elementos destacables pueden llevar fuentes más expresivas para ser más atractivos o llamativos para el usuario. Sin embargo, para los cuerpos o los elementos con un contenido informativo, botones y los elementos con los que se interactua, google recomienda una tipografía con o sin serifas, pero que no sea muy expresiva puesto que puede confundir al usuario. Google no recomienda excederse en el número de familias de fuentes usadas, con objetivo de conseguir un resultado sólido y coherente.
-Mediante la herramienta "Type scale" que ofrece google junto con su banco de tipografias "Google Font", hemos decidido realizar nuestro proyecto con las siguientes tipografías:
+Hemos decidido escoger dos fuentes principales para nuestra aplicación. Según las guías de Google, elemenos tales como "Headlines", subtitulos y elementos destacables pueden llevar fuentes más expresivas para ser más atractivos o llamativos para el usuario. Sin embargo, para los cuerpos o los elementos con un contenido informativo, botones y los elementos con los que se interactua, Google recomienda una tipografía con o sin serifas, pero que no sea muy expresiva puesto que puede confundir al usuario. Google no recomienda excederse en el número de familias de fuentes usadas, con objetivo de conseguir un resultado sólido y coherente.
+Mediante la herramienta "Type scale" que ofrece Google junto con su banco de tipografias "Google Font", hemos decidido realizar nuestro proyecto con las siguientes tipografías:
 
 - 'Bebas Neue' para headlines y subtítulos
 - La familia 'Roboto' para el cuerpo y el resto de elementos con contenido informativo.
 
 ### Colores:
-Basandonos en las lineas de diseño aportadas por google, hemos escogido dos colores que se complementan de acuerdo a la documentación. El color principal es más saturado y será el color característico de la aplicación. Este color se aplicará a la mayoría de elementos en el diseño. El color secundario servirá como acentuante para elementos con los que el usuario pueda interactuar, botones, desplegables, etc. Para color, siguiendo las indicaciones de google, se generan también una versión más clara y otra más oscura, para cuando la app necesita que un elemento del color se marque como seleccionado, deseleccionado, usabe, etc. Además, mediante la herramienta de google se puede acceder a una pestaña de accesibilidad donde nos indican que colores usar para las fuentes de manera que sobre un fondo de cualquiea de los colores usados el texto sea siempre legible, indicando la mínima opacidad que este puede tener. Los colores usados son:
+Basandonos en las lineas de diseño aportadas por Google, hemos escogido dos colores que se complementan de acuerdo a la documentación. El color principal es más saturado y será el color característico de la aplicación. Este color se aplicará a la mayoría de elementos en el diseño. El color secundario servirá como acentuante para elementos con los que el usuario pueda interactuar, botones, desplegables, etc. Para color, siguiendo las indicaciones de Google, se generan también una versión más clara y otra más oscura, para cuando la app necesita que un elemento del color se marque como seleccionado, deseleccionado, usabe, etc. Además, mediante la herramienta de Google se puede acceder a una pestaña de accesibilidad donde nos indican que colores usar para las fuentes de manera que sobre un fondo de cualquiea de los colores usados el texto sea siempre legible, indicando la mínima opacidad que este puede tener. Los colores usados son:
 
 - Bittersweet Shimmer: ![#c14953](https://placehold.it/15/c14953/000000?text=+) `#c14953`
 - Bone: ![#e5dcc5](https://placehold.it/15/e5dcc5/000000?text=+) `#e5dcc5`
+
+### Iconografía
+En sus guidelines, Google
