@@ -93,7 +93,12 @@ Analizamos una experiencia de UX-Case Study de un proyecto ya finalizado. De ell
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para el diseño del logotipo de sharee se ha utilizado Illustrator, una herramienta de edición de archivos vectoriales. Siguiendo los [requerimientos para logos](https://developer.android.com/google-play/resources/icon-design-specifications?hl=es) de Google para la Google Play, el siguiente logo tiene una resolución de 512x512px y un formato PNG.
+
+Para usar el logo en distintas plataformas habría que tener versiones en diferentes resoluciones, algo sencillo teniendo en cuenta que la versión original está vectorizada y que puede generarse un archivo de cualquier resolución. La forma de usar las distintas resoluciones para RRSS u otro tipo de aplicaciones del logo deberían ir especificadas en el manual del diseño aportado por el diseñador gráfico que hemos contratado para el proyecto.
+
+![](https://raw.githubusercontent.com/romanlarrosa/DIU20/master/P3/img/Sharee.png) 
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
