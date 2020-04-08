@@ -90,5 +90,5 @@ En sus guidelines, Google nos ofrece indicaciones sobre la iconografía y un ban
 ### Resultado
 Como resultado de todas estas decisiones hemos elaborado un style guide siguiendo el ejemplo de Musemap:
 
-![](/img/DISEÑO.svg)
-![](/img/DISEÑO.png)
+![](https://github.com/romanlarrosa/DIU20/tree/master/P3/img/DISENO.svg)
+![](https://github.com/romanlarrosa/DIU20/tree/master/P3/img/DISENO.png)
