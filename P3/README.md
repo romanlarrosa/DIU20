@@ -81,5 +81,5 @@ Mediante la herramienta "Type scale" que ofrece google junto con su banco de tip
 ### Colores:
 Basandonos en las lineas de diseño aportadas por google, hemos escogido dos colores que se complementan de acuerdo a la documentación. El color principal es más saturado y será el color característico de la aplicación. Este color se aplicará a la mayoría de elementos en el diseño. El color secundario servirá como acentuante para elementos con los que el usuario pueda interactuar, botones, desplegables, etc. Para color, siguiendo las indicaciones de google, se generan también una versión más clara y otra más oscura, para cuando la app necesita que un elemento del color se marque como seleccionado, deseleccionado, usabe, etc. Además, mediante la herramienta de google se puede acceder a una pestaña de accesibilidad donde nos indican que colores usar para las fuentes de manera que sobre un fondo de cualquiea de los colores usados el texto sea siempre legible, indicando la mínima opacidad que este puede tener. Los colores usados son:
 
-- Bittersweet Shimmer: ![#c14953](https://placehold.it/15/f03c15/000000?text=+) `#c14953`
-- Bone: ![#e5dcc5](https://placehold.it/15/c5f015/000000?text=+) `#e5dcc5`
+- Bittersweet Shimmer: ![#c14953](https://placehold.it/15/c14953/000000?text=+) `#c14953`
+- Bone: ![#e5dcc5](https://placehold.it/15/e5dcc5/000000?text=+) `#e5dcc5`
