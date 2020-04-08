@@ -44,7 +44,7 @@ Escogimos las dos experiencias que rigen las funcionalidades más basicas sobre 
 ----
 Analizamos Badi a fondo para tener claros sus puntos fuertes y saber concretamente cuales son sus puntos a mejorar. Para nuestra sorpresa encontramos diversos puntos débiles que nos ayudarían a mejorar nuestro diseño de una forma muy sencilla.
 
-- Enlace al documento: [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1/Usability-review-template.xlsx)
+- Enlace al documento: [aqui](https://github.com/romanlarrosa/DIU20/blob/master/P1/Usability%20Review/Usability-review-template.pdf)
 - Valoración final: 83/100
 - Comentario sobre la valoración: Aunque es una nota alta, no estamos muy de acuerdo con el método de puntuación. Puedes encontrar nuestra valoración completa [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#revisi%C3%B3n-de-usabilidad)
 
@@ -63,6 +63,7 @@ Basándonos en el capture grid, encontramos 3 funcionalidades clave en las que c
 
 Desarrollamos el mapa de nuestra aplicación para tener claro dónde situar cada característica antes de comenzar con los primeros bocetos. De esta manera, realizar los bocetos es mucho más sencillo porque tenemos un mapa desde el que guiarnos:
 - [Sitemap](https://github.com/romanlarrosa/DIU20/blob/master/P2/img/Sitemap.png)
+
 Diseñamos también los pasos a seguir para las nuevas funcionalidades que añadiremos a nuestro proyecto. Las hemos agrupado en 5 Task Flows:
 - [Task Flows](https://github.com/romanlarrosa/DIU20/tree/master/P2#sitemap--task-flow)
 
