@@ -27,13 +27,13 @@ El punto de partida para empezar a diseñar Sharee fue elegir la aplicación que
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Los servicios que encontramos contra los que Sharee competiría son habitoom, stuckers y Badi. Elegimos Badi porque nos parece el mas completo contra el que competir.
-Mas información sobre la decision [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#desk-research-an%C3%A1lisis-competencia)
+Los servicios que encontramos contra los que Sharee competiría son Habitoom, Stuckers y Badi. Elegimos Badi porque nos parece el mas completo contra el que competir.
+Más información sobre la decisión [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#desk-research-an%C3%A1lisis-competencia)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Para poder identificar posibles problemas de cara a las funcionalidades de Sharee, hicimos uso de dos personas ficticias con necesidades y situaciones diferentes para ver que dificulatades encontraban en Badi que pudiesemos mejorar en Sharee. Elegimos a Ashley y a Guillermo, puedes encontrar más información sobre ellos [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#2-personas)
+Para poder identificar posibles problemas de cara a las funcionalidades de Sharee, hicimos uso de dos personas ficticias con necesidades y situaciones diferentes para ver qué dificultades encontraban en Badi que pudiésemos mejorar en Sharee. Elegimos a Ashley y a Guillermo, puedes encontrar más información sobre ellos [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P1#2-personas)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
