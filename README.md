@@ -82,7 +82,7 @@ Entonces realizamos el labelling de nuestro servicio para tener claro desde el p
 Entonces realizamos los primeros bocetos de la aplicación, siguiendo el labelling y los taskflow realizados anteriormente, respetando el mapa del sitio. Obtenemos un diseño con detalle medio de las nuevas funcionalidades. Puedes ver los bocetos [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2#wireframe--user-flow)
 
 
-## Paso 3. Mi equipo UX-Case Study 
+## Paso 3. OrtegayGasset UX-Case Study 
 
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
