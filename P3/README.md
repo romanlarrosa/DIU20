@@ -92,6 +92,9 @@ Como resultado de todas estas decisiones hemos elaborado un style guide siguiend
 
 ![](img/DISENO.svg)
 
+Hemos usado las herramientas que ofrece de manera gratuita google para [generar las tipografías](https://material.io/design/typography/the-type-system.html#type-scale) y el [asistente de elección de colores](https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=C14953&secondary.color=e5dcc5) para el diseño de la app:
+
+
 ### Decisiones sobre el contenido de la aplicación
 Como medidas para mejorar la experiencia de la aplicación e incentivar su uso, vamos a tomar los consejos que se exponen en la [Guia UX de Google](https://www.thinkwithgoogle.com/intl/es-419/recursos-y-herramientas/aplicaciones/principles-of-mobile-app-design-download-complete-guide/) y en [esta guia publicada en Smashing Magazine](https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/).
 
@@ -101,3 +104,9 @@ Para tener un mayor control sobre todas las operaciones económicas realizadas c
 Los comentarios reseñados a cada perfil se muestran en el mismo y son accesibles a todos los usuarios. Estos comentarios se pueden ordenar y filtrar.
 Los errores producidos en formularios en los que el usuario tiene cierta libertad para rellenar serán mostrados en tiempo real, indicando dónde y por qué radica el error.
 Los formularios, además de contener un indicador para señalar el paso en el que se encuentra el usuario, ofrecerá información contextual según el campo que se esté rellenando: un calendario para las fechas, botones de elección para respuestas cerradas, etc.
+
+## 3. Conclusiones
+El principal problema que puede surgir a la hora de realizar esta práctica es el no saber por donde comenzar a plantear el diseño de la misma. Sin embargo, y al estar elaborando una aplicación para android, la documentación refente al diseño que aporta Google es muy clara y ordenada, justificando en cada momento todas las decisiones que se toman. Esto nos ha sido de gran ayuda para poder realizar la propuesta de diseño, ya que es muy útil tener unas guías con tanto material tanto teórico como práctico para relizar la propuesta.
+Gracias a las facilidades aportadas por estas guías, hemos sido conscientes de lo importante que es tener unas guías claras y ordenadas de diseño a las que referirse durante la realización de cualquier propuesta de diseño, convirtiendo una tarea en principio muy compleja en una serie de pasos relativamente sencillos que seguir para lograr el objetivo.
+
+La segunda difcultad que nos ha surgido ha sido la falta de algún material que nos pueda servir de ejemplo para la realización del video, ya que un trabajo de una extensión como la de éste proyecto nos parece dificil de sintetizar en un tiempo tan limitado.
