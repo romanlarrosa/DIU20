@@ -79,7 +79,7 @@ Entonces realizamos el labelling de nuestro servicio para tener claro desde el p
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Entonces realizamos los primeros bocetos de la aplicación, siguiendo el labelling y los taskflow realizados anteriormente, respetando el mapa del sitio. Obtenemos un diseño con detalle medio de las nuevas funcioanlidades. Puedes ver los bocetos [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2#wireframe--user-flow)
+Entonces realizamos los primeros bocetos de la aplicación, siguiendo el labelling y los taskflow realizados anteriormente, respetando el mapa del sitio. Obtenemos un diseño con detalle medio de las nuevas funcionalidades. Puedes ver los bocetos [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P2#wireframe--user-flow)
 
 
 ## Paso 3. Mi equipo UX-Case Study 
@@ -99,7 +99,8 @@ Analizamos una experiencia de UX-Case Study de un proyecto ya finalizado. De ell
 ----
 
 Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consideramos que reutilizar las buenas prácticas de diseñadores ayudará a que nuestro servicio se vea actualizado y acorde a las tendencias actuales, además de ahorrarnos tiempo en las decisiones de diseño que ya han sido resueltas por otros diseñadores. Puedes acceder a nuestra propuesta de diseño del proyecto [aquí](https://github.com/romanlarrosa/DIU20/tree/master/P3#2-patrones-de-dise%C3%B1o-y-guidelines). Un resumen de nuestras decisiones puede concretarse en el siguiente styleguide:
-![]((P3/img/DISENO.svg))
+
+![](P3/img/DISENO.svg)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
