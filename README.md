@@ -9,6 +9,8 @@ Descripción: Sharee es una aplicación movil desde la cual podrás publicar o b
 
 Logotipo: 
 
+![](https://raw.githubusercontent.com/romanlarrosa/DIU20/master/P3/img/ShareePequeno.png) 
+
 Miembros
  * :woman:  [Marina H. B](http://github.com/marinahbau/DIU20)    :octocat:     
  * :boy:  [ Román L. L](http://github.com/romanlarrosa/DIU20)    :octocat:
