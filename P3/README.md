@@ -18,21 +18,21 @@ Encontramos este análisis de competencia muy similar a la revisión de usabilid
 - La revisión de usabilidad analiza un mayor número de aspectos basados en el diseño, pero el análisis que han realizado para musemap se centra mucho más en las funcionalidades que pueden ofrecer los servicios.
 - El análisis de la competencia es más breve pero analiza a un mayor número de competidores. Esto es útil si no hay un claro lider en el mercado.
 
-Mientras que el análisis de la competencia de Musemap es un método mucho más sencillo pero que necesita de conocer de antemano cuales son las funcionalidades o los problemas que puede ofrecer el servicio, la revisión de usabilidad que hemos usado nosotros ofrece una visión mucho más global y ayuda a encontrar cuales son los principales problemas que tiene un servicio en concreto de la competencia. 
+Mientras que el **análisis de la competencia de Musemap es un método mucho más sencillo** pero que necesita de conocer de antemano cuales son las funcionalidades o los problemas que puede ofrecer el servicio, **la revisión de usabilidad que hemos usado nosotros ofrece una visión mucho más global y ayuda a encontrar cuales son los principales problemas** que tiene un servicio en concreto de la competencia. 
 
 ### Empathy map
-Los diseñadores llevaron a cabo este mapa de empatía basado en suposiciones sobre los distintos estímulos que puede percibir una persona cuando puede resultarle útil usar el servicio que quieren implementar. Como resultado obtuvieron cuales son los objetivos que harían que los usuarios decidiesen usar su servicio y cuáles son los aspectos a solucionar. Esto les sirvió de ayuda para realizar las entrevistas, descritas en el siguiente método
+Los diseñadores llevaron a cabo este mapa de empatía basado en suposiciones sobre los distintos estímulos que puede percibir una persona cuando puede resultarle útil usar el servicio que quieren implementar. Como resultado **obtuvieron cuales son los objetivos que harían que los usuarios decidiesen usar su servicio y cuáles son los aspectos a solucionar**. Esto les sirvió de ayuda para realizar las entrevistas, descritas en el siguiente método
 
 ### User Interviews
 Los diseñadores realizaron una encuesta online abierta, con la que seleccionaron a varios usuarios a los que realizarles una entrevista. 
-Desde nuestra opcinión, pensamos que hacer entrevistas con los usuarios debería postponerse hasta un punto más avanzado del diseño, puesto que a un usuario común no le es sencillo hacer apreciaciones sobre un proyecto que aún no es nada tangible, sino que son ideas sobre el papel.
+Desde nuestro punto de vista, **pensamos que hacer entrevistas con los usuarios debería postponerse hasta un punto más avanzado del diseño**, puesto que a un usuario común no le es sencillo hacer apreciaciones sobre **un proyecto que aún no es nada tangible**, sino que son ideas sobre el papel.
 
 ### Affinity Mapping
 Tras relizar la entrevistas, pusieron los datos recogidos en conjunto e identificaron cuales eran las diferencias que habia con sus suposiciones iniciales. 
 
 ### User personas
 Decidieron que necesitaban crear a personas para identificar mejor los objetivos y los puntos críticos del servicio. Para ello crearon a dos personas ficticias, Tom y Jan. 
-La ejecución de este método de UX nos parece muy pobre. Las personas estan complemtamente orientadas a mostrar acptación o desacuerdo con el proyecto, y tienen personalidades y habilidades muy parecidas. Es por ello que el resultado obtenido tras el análisis con estas personas es poco legítimo, puesto que los diseñadores han guiado mucho las opiniones de las personas con el contexto del servicio para quizás forzar la apraición de puntos fuertes y débiles que ya tenian considerados.
+La ejecución de este método de UX nos parece muy pobre. **Las personas estan completamente orientadas a mostrar acptación o desacuerdo con el proyecto**, y tienen **personalidades y habilidades muy parecidas**. Es por ello que el resultado obtenido tras el análisis con estas personas es poco legítimo, puesto que los diseñadores han guiado mucho las opiniones de las personas con el contexto del servicio para quizás forzar la apraición de puntos fuertes y débiles que ya tenian considerados.
 
 ### User Journey / Experience Map
 Los diseñadores realizaron un user journey de su persona principal, y añadieron un experience map. El problema principal que encontramos es que la experiencia descrita no involucra a la aplicación a desarrollar. Pensamos que de esta manera no pueden obtener problemas reales a la hora de interactuar con el servicio.
@@ -98,15 +98,15 @@ Hemos usado las herramientas que ofrece de manera gratuita google para [generar 
 ### Decisiones sobre el contenido de la aplicación
 Como medidas para mejorar la experiencia de la aplicación e incentivar su uso, vamos a tomar los consejos que se exponen en la [Guia UX de Google](https://www.thinkwithgoogle.com/intl/es-419/recursos-y-herramientas/aplicaciones/principles-of-mobile-app-design-download-complete-guide/) y en [esta guia publicada en Smashing Magazine](https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/).
 
-Para probar el servicio de manera sencilla para los nuevos usuarios, no será necesario identificarse en la app para buscar habitaciones, únicamente se pedirá la identificación si el usuario quiere publicar una habitación o si quiere hacer una reserva.
+Para probar el servicio de manera sencilla para los nuevos usuarios, **no será necesario identificarse en la app para buscar habitaciones**, únicamente se pedirá la identificación si el usuario quiere publicar una habitación o si quiere hacer una reserva.
 
-Para mejorar la búsqueda en el servicio, que es la funcionaidad que más se va a usar, la barra o el menú de busqueda serán visibles en todo momento. Además, la aplicación contará con un proceso de filtrado y ordenación en el que los usuarios podrán acotar aún más su búsqueda. Estas búsquedas podrán ser guardadas por el usuario y también podrá acceder a sus búsquedas recientes.
+Para mejorar la búsqueda en el servicio, que es la funcionaidad que más se va a usar, la barra o **el menú de busqueda serán visibles en todo momento**. Además, la aplicación contará con un proceso de **filtrado** y ordenación en el que los usuarios podrán acotar aún más su búsqueda. Estas **búsquedas podrán ser guardadas por el usuario** y también podrá acceder a sus **búsquedas recientes**.
 
-Para tener un mayor control sobre todas las operaciones económicas realizadas con Sharee, nuestro servicio mantendrá un historial de todas las reservas hechas por un usuario.
+Para tener un mayor control sobre todas las operaciones económicas realizadas con Sharee, nuestro servicio mantendrá un **historial de todas las reservas** hechas por un usuario.
 
-Los comentarios reseñados a cada perfil se muestran en el mismo y son accesibles a todos los usuarios. Estos comentarios se pueden ordenar y filtrar.
+Los **comentarios** reseñados a cada perfil se muestran en el mismo y son **accesibles a todos los usuarios**. Estos comentarios se pueden ordenar y filtrar.
 
-Los errores producidos en formularios en los que el usuario tiene cierta libertad para rellenar serán mostrados en tiempo real, indicando dónde y por qué radica el error.
+Los **errores producidos en formularios** en los que el usuario tiene cierta libertad para rellenar serán **mostrados en tiempo real, indicando dónde y por qué radica el error**.
 
 Los formularios, además de contener un indicador para señalar el paso en el que se encuentra el usuario, ofrecerá información contextual según el campo que se esté rellenando: un calendario para las fechas, botones de elección para respuestas cerradas, etc.
 
