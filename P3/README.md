@@ -99,10 +99,15 @@ Hemos usado las herramientas que ofrece de manera gratuita google para [generar 
 Como medidas para mejorar la experiencia de la aplicación e incentivar su uso, vamos a tomar los consejos que se exponen en la [Guia UX de Google](https://www.thinkwithgoogle.com/intl/es-419/recursos-y-herramientas/aplicaciones/principles-of-mobile-app-design-download-complete-guide/) y en [esta guia publicada en Smashing Magazine](https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/).
 
 Para probar el servicio de manera sencilla para los nuevos usuarios, no será necesario identificarse en la app para buscar habitaciones, únicamente se pedirá la identificación si el usuario quiere publicar una habitación o si quiere hacer una reserva.
+
 Para mejorar la búsqueda en el servicio, que es la funcionaidad que más se va a usar, la barra o el menú de busqueda serán visibles en todo momento. Además, la aplicación contará con un proceso de filtrado y ordenación en el que los usuarios podrán acotar aún más su búsqueda. Estas búsquedas podrán ser guardadas por el usuario y también podrá acceder a sus búsquedas recientes.
+
 Para tener un mayor control sobre todas las operaciones económicas realizadas con Sharee, nuestro servicio mantendrá un historial de todas las reservas hechas por un usuario.
+
 Los comentarios reseñados a cada perfil se muestran en el mismo y son accesibles a todos los usuarios. Estos comentarios se pueden ordenar y filtrar.
+
 Los errores producidos en formularios en los que el usuario tiene cierta libertad para rellenar serán mostrados en tiempo real, indicando dónde y por qué radica el error.
+
 Los formularios, además de contener un indicador para señalar el paso en el que se encuentra el usuario, ofrecerá información contextual según el campo que se esté rellenando: un calendario para las fechas, botones de elección para respuestas cerradas, etc.
 
 ## 3. Conclusiones
