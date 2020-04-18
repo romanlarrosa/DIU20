@@ -53,7 +53,7 @@ En este punto, el equipo realiza una matriz 2x2 sobre los aspectos a desarrollar
 Los diseñadores realizaron un primer boceto en papel, y se lo dieron a sus usuarios para que dejasen su opinión. Los usuarios no entendieron la aplicación ni el funcionamiento de sus características principales. Este problema les llevó a un callejón sin salida que consideramos **puede deberse a la falta de organización** respecto a las caracteristicas a implementar.
 
 ### 1.12 Second Iteration
-Deciden empezar de cero con la propuesta de usar mapas interactivos. **Lo consideramos una mala práctica, ya que han cambiado todo el concepto en el último momento** sin hacer una reevaluación de las funcionalidades e intentar adaptar el trabajo que ya tenían.
+Deciden empezar de cero con la propuesta de usar mapas interactivos. **Lo consideramos una mala práctica, ya que han cambiado todo el concepto en el último momento** sin hacer una reevaluación de las funcionalidades estableciendo una nueva hipótesis e intentando adaptar el trabajo que ya tenían.
 
 ### 1.13 Hi-Fi Digital Wireframes
 Al realizar los bocetos Hi-Fi que tienen un mayor nivel de detalle, queda recogida de manera mucho más clara la funcionalidad y además se añaden casos alternativos. Realizaron un segundo testeo con usuarios para probar el diseño propuesto, y recabar información sobre los problemas
@@ -61,7 +61,7 @@ Al realizar los bocetos Hi-Fi que tienen un mayor nivel de detalle, queda recogi
 ### 1.14 Sitemap
 Crearon un sitemap, muy parecido al nuestro, pero con cos bocetos reales ya que lo han realizado en una fase mucho mas evolucionada del diseño. La ventaja es que el sitemap resulta muy visual, pero **creemos que hay que tener clara la disposición y el esquema de nuestra aplicación antes de diseñar de manera tan detallada la interfaz**.
 
-### 1.15 Sytle Guide
+### 1.15 Style Guide
 Los diseñadores establecen los colores, las tipografías y los iconos que van a utilizar. Para ser una fase tan evolucionada del diseño, nos parece que **el concepto no es muy coherente**, ya que **no sigue unas lineas de diseño claras, con iconos muy dispares** (estilo, grosor de linea, etc.) y una justificación muy vaga de los colores y las tipografías usadas. Sin embargo, consideramos este método necesario antes de realizar los mockups finales para dejar claro cuales son las lineas de diseño que se van a usar.
 
 ### 1.16 Visual Design: Final Mock-Ups
@@ -85,7 +85,7 @@ Basandonos en las **lineas de diseño aportadas por Google**, hemos escogido dos
 - Bone: ![#e5dcc5](https://placehold.it/15/e5dcc5/000000?text=+) `#e5dcc5`
 
 ### 2.3 Iconografía
-En sus guidelines, Google nos ofrece indicaciones sobre la iconografía y un banco de iconos usado en su sistema. Sin embargo; nosotros vamos a **mantener los iconos que aportamos en el [labeling de la P2](https://github.com/romanlarrosa/DIU20/blob/master/P2/doc/labelling.pdf)**, ya que además de cumplir las guías de diseño, todos mantienen un **estilo propio** y uniforme.
+En sus guidelines, Google nos ofrece indicaciones sobre la iconografía y un banco de iconos usado en su sistema. Sin embargo; nosotros vamos a **mantener los iconos que aportamos en el [labelling de la P2](https://github.com/romanlarrosa/DIU20/blob/master/P2/doc/labelling.pdf)**, ya que además de cumplir las guías de diseño, todos mantienen un **estilo propio** y uniforme.
 
 ### 2.4 Resultado
 Como resultado de todas estas decisiones hemos elaborado un **style guide** siguiendo el ejemplo de Musemap:
@@ -115,6 +115,8 @@ Los formularios, además de contener un indicador para señalar el paso en el qu
 Este video resume el proceso de diseño y pretende captar al receptor y que este comprenda los puntos clave que hacen que Sharee sea una propuesta de interés. Sería de utilidad para llamar la atención tanto de alguien interesado en colaborar con su implementación como de algún inversor interesado económicamente en nuestra propuesta.
 
 [![Sharee](https://img.youtube.com/vi/ShFdJvxx8xY/0.jpg)](https://www.youtube.com/watch?v=ShFdJvxx8xY)
+
+Puedes encontrar el guión del video en formato de texto [aqui](doc/guion.txt)
 
 ## 4. Conclusiones
 El principal problema que puede surgir a la hora de realizar esta práctica es el no saber por donde comenzar a plantear el diseño de la misma. Sin embargo, y al estar elaborando una aplicación para android, la **documentación refente al diseño que aporta Google es muy clara y ordenada**, justificando en cada momento todas las decisiones que se toman. Esto nos ha sido de gran ayuda para poder realizar la propuesta de diseño, ya que es muy útil tener unas guías con tanto material tanto teórico como práctico para relizar la propuesta.
