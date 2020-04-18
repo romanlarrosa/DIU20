@@ -92,7 +92,7 @@ Como resultado de todas estas decisiones hemos elaborado un **style guide** sigu
 
 ![](img/DISENO.svg)
 
-Hemos usado las herramientas que ofrece de manera gratuita google para [generar las tipografías](https://material.io/design/typography/the-type-system.html#type-scale) y el [asistente de elección de colores](https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=C14953&secondary.color=e5dcc5) para el diseño de la app:
+Hemos usado las herramientas que ofrece de manera gratuita google para [generar las tipografías](https://material.io/design/typography/the-type-system.html#type-scale) y el [asistente de elección de colores](https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=C14953&secondary.color=e5dcc5) para el diseño de la app.
 
 
 ### 2.5 Decisiones sobre el contenido de la aplicación
