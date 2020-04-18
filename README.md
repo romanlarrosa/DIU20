@@ -112,7 +112,7 @@ Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consi
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+[Este video](https://youtu.be/ShFdJvxx8xY) documenta y resume nuestra propuesta de servicio. Más información [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P3#1-historia-en-video)
 
 
 ## Paso 4. Evaluación 
