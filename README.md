@@ -112,7 +112,7 @@ Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consi
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
-[Este video](https://youtu.be/ShFdJvxx8xY) documenta y resume nuestra propuesta de servicio. Más información [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P3#1-historia-en-video)
+[Este video](https://youtu.be/ShFdJvxx8xY) documenta y resume nuestra propuesta de servicio. Más información [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P3#3-historia-en-v%C3%ADdeo)
 
 
 ## Paso 4. Evaluación 
