@@ -1,13 +1,15 @@
 # DIU - Practica 3
 
-Grupo: DIU2_OrtegayGasset.  Curso: 2019/20
-Miembros:
- * :woman:  [Marina H. B](http://github.com/marinahbau/DIU20)    :octocat:     
- * :boy:  [ Román L. L](http://github.com/romanlarrosa/DIU20)    :octocat:
+Grupo: DIU2_OrtegayGasset.  Curso: 2019/20 
 
+Miembros (Enlaces): 
+
+[Marina H. B](http://github.com/marinahbau/DIU20)
+
+[Román L. L](http://github.com/romanlarrosa/DIU20) 
 
 ## 1. Análisis de Musemap
-Durante esta fase analizaremos los métodos UX que han puesto en práctica para el diseño de Musemap, una aplicación que pretende da crédito a artistas callejeros por su trabajo. Está elaborada por un grupo de estudiantes, que basándose en este supuesto crearon la app en 2 semanas. Para ello utilizaron los siguientes métodos:
+Durante esta fase analizaremos los métodos UX que han puesto en práctica para el diseño de Musemap, una aplicación que pretende da crédito a artistas callejeros por su trabajo. Está elaborada por un grupo de estudiantes, que basándose en este supuesto crearon la app en 2 semanas.
 
 ### 1.1 Competitive Analysis
 Para realizar el análisis de la competencia realizaron una tabla comparativa entre los distintos servicios disponibles que realizaban una tarea parecida o que ellos querían añadir a su proyecto. Como resultado, obtuvieron qué funcionalidades eran esenciales ya que todos los servicios de la competencia las implementaban, y cuales desarrollar para marcar una diferencia entre sus competidores.
@@ -90,7 +92,7 @@ En sus guidelines, Google nos ofrece indicaciones sobre la iconografía y un ban
 ### 2.4 Resultado
 Como resultado de todas estas decisiones hemos elaborado un **style guide** siguiendo el ejemplo de Musemap:
 
-![](img/DISENO.svg)
+![](img/DISENO.png)
 
 Hemos usado las herramientas que ofrece de manera gratuita google para [generar las tipografías](https://material.io/design/typography/the-type-system.html#type-scale) y el [asistente de elección de colores](https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=C14953&secondary.color=e5dcc5) para el diseño de la app.
 
@@ -112,9 +114,9 @@ Los formularios, además de contener un indicador para señalar el paso en el qu
 
 ## 3. Historia en vídeo
 
-Este video resume el proceso de diseño y pretende captar al receptor y que este comprenda los puntos clave que hacen que Sharee sea una propuesta de interés. Sería de utilidad para llamar la atención tanto de alguien interesado en colaborar con su implementación como de algún inversor interesado económicamente en nuestra propuesta.
+Este video resume el proceso de diseño y pretende captar al receptor y que este comprenda los puntos clave que hacen que Sharee sea una propuesta de interés. Sería de utilidad para llamar la atención tanto de alguien interesado en colaborar con su implementación como de algún inversor interesado económicamente en nuestra propuesta. **Pincha en la imagen para acceder al video.**
 
-[![Sharee](https://img.youtube.com/vi/ShFdJvxx8xY/0.jpg)](https://www.youtube.com/watch?v=ShFdJvxx8xY)
+[![Sharee](img/Miniatura_video_sharee.png)](https://www.youtube.com/watch?v=ShFdJvxx8xY)
 
 Puedes encontrar el guión del video en formato de texto [aqui](doc/guion.txt)
 
