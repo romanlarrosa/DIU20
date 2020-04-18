@@ -118,6 +118,8 @@ Este video resume el proceso de diseño y pretende captar al receptor y que este
 
 Puedes encontrar el guión del video en formato de texto [aqui](doc/guion.txt)
 
+Además hemos añadido subtítulos, que están disponibles en el video para personas con problemas de audición.
+
 ## 4. Conclusiones
 El principal problema que puede surgir a la hora de realizar esta práctica es el no saber por donde comenzar a plantear el diseño de la misma. Sin embargo, y al estar elaborando una aplicación para android, la **documentación refente al diseño que aporta Google es muy clara y ordenada**, justificando en cada momento todas las decisiones que se toman. Esto nos ha sido de gran ayuda para poder realizar la propuesta de diseño, ya que es muy útil tener unas guías con tanto material tanto teórico como práctico para relizar la propuesta.
 Gracias a las facilidades aportadas por estas guías, hemos sido conscientes de lo **importante que es tener unas guías claras y ordenadas de diseño** a las que referirse durante la realización de cualquier propuesta de diseño, convirtiendo una tarea en principio muy compleja en una serie de pasos relativamente sencillos que seguir para lograr el objetivo.
