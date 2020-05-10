@@ -124,19 +124,26 @@ Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consi
 
 **Caso 1**: Aplicación donde se publican imágenes y videos de los viajes de los usuarios, pudiéndose crear chats para conocerse o viajar en grupo: [Web](https://github.com/RubenDelgadoPareja/DIU20)
 
+[Hoja de evaluacion](https://github.com/romanlarrosa/DIU20/tree/master/P4/docs)
+[Conclusiones](https://github.com/romanlarrosa/DIU20/tree/master/P4#caso-1)
+
+
 **Caso 2**: Bladi es una aplicación de alquiler de pisos y control de gastos de convivencia: [Web](https://github.com/Superkorlas/DIU_Practicas)
+
+[Hoja de evaluacion](https://github.com/romanlarrosa/DIU20/tree/master/P4/docs)
+[Conclusiones](https://github.com/romanlarrosa/DIU20/tree/master/P4#caso-2)
+
 
 **Caso 3**: CoNect es una aplicación de actividades de ocio donde se priorizan los sistemas de valoraciones y la sencillez para publicar o ver actividades: [Web](https://github.com/MiguelAlberti/DIU20)
 
-
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+[Hoja de evaluacion](https://github.com/romanlarrosa/DIU20/tree/master/P4/docs)
+[Conclusiones](https://github.com/romanlarrosa/DIU20/tree/master/P4#caso-3)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+Seleccionamos a nuestra persona ficticia Ashley Miles. Para consultar los problemas que le surgen durante el uso de los servicios haz click [aqui](https://github.com/romanlarrosa/DIU20/tree/master/P4#user-testing)
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
@@ -147,7 +154,7 @@ Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consi
 2. DIU3_MAP: 75
 3. DIU1_PAPAYA: 59
 
-Puedes encontrar más detalles [aquí](P4/)
+Puedes encontrar más detalles [aquí](https://github.com/romanlarrosa/DIU20/tree/master/P4#conclusiones/)
 
 La lección que sacamos tras el análisis de estos casos de estudio es la importancia de documentar de manera clara, transparente y ordenada los disintos aspectos de una propuesta de proyecto de cara a atraer al mayor número de usuarios e interesados posible.
 
