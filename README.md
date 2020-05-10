@@ -125,18 +125,21 @@ Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consi
 **Caso 1**: Aplicación donde se publican imágenes y videos de los viajes de los usuarios, pudiéndose crear chats para conocerse o viajar en grupo: [Web](https://github.com/RubenDelgadoPareja/DIU20)
 
 [Hoja de evaluacion](https://github.com/romanlarrosa/DIU20/tree/master/P4/docs)
+
 [Conclusiones](https://github.com/romanlarrosa/DIU20/tree/master/P4#caso-1)
 
 
 **Caso 2**: Bladi es una aplicación de alquiler de pisos y control de gastos de convivencia: [Web](https://github.com/Superkorlas/DIU_Practicas)
 
 [Hoja de evaluacion](https://github.com/romanlarrosa/DIU20/tree/master/P4/docs)
+
 [Conclusiones](https://github.com/romanlarrosa/DIU20/tree/master/P4#caso-2)
 
 
 **Caso 3**: CoNect es una aplicación de actividades de ocio donde se priorizan los sistemas de valoraciones y la sencillez para publicar o ver actividades: [Web](https://github.com/MiguelAlberti/DIU20)
 
 [Hoja de evaluacion](https://github.com/romanlarrosa/DIU20/tree/master/P4/docs)
+
 [Conclusiones](https://github.com/romanlarrosa/DIU20/tree/master/P4#caso-3)
 
 
