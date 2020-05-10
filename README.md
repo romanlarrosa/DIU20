@@ -122,7 +122,13 @@ Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consi
 ----
 
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+**Caso 1**: Aplicación donde se publican imágenes y videos de los viajes de los usuarios, pudiéndose crear chats para conocerse o viajar en grupo: [Web](https://github.com/RubenDelgadoPareja/DIU20)
+
+**Caso 2**: Bladi es una aplicación de alquiler de pisos y control de gastos de convivencia: [Web](https://github.com/Superkorlas/DIU_Practicas)
+
+**Caso 3**: CoNect es una aplicación de actividades de ocio donde se priorizan los sistemas de valoraciones y la sencillez para publicar o ver actividades: [Web](https://github.com/MiguelAlberti/DIU20)
+
+
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
@@ -136,9 +142,15 @@ Es necesario seguir unas guidelines actuales, documentadas y justificadas. Consi
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+**Ranking de los casos evaluados**
+1. DIU2_Plata: 80
+2. DIU3_MAP: 75
+3. DIU1_PAPAYA: 59
 
->>> Valoración personal 
+Puedes encontrar más detalles [aquí](P4/)
+
+La lección que sacamos tras el análisis de estos casos de estudio es la importancia de documentar de manera clara, transparente y ordenada los disintos aspectos de una propuesta de proyecto de cara a atraer al mayor número de usuarios e interesados posible.
+
 
 
 ## Paso 5. Evaluación de Accesibilidad  
